@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kvitkas/ncri-app.git/static/css/main.26bd5955.css",
+    "main.js": "/kvitkas/ncri-app.git/static/js/main.5a99910d.js",
+    "static/media/laptop.jpg": "/kvitkas/ncri-app.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/kvitkas/ncri-app.git/index.html",
+    "main.26bd5955.css.map": "/kvitkas/ncri-app.git/static/css/main.26bd5955.css.map",
+    "main.5a99910d.js.map": "/kvitkas/ncri-app.git/static/js/main.5a99910d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26bd5955.css",
+    "static/js/main.5a99910d.js"
+  ]
+}
