@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kvitkas/ncri-app.git/static/css/main.26bd5955.css",
-    "main.js": "/kvitkas/ncri-app.git/static/js/main.5a99910d.js",
-    "static/media/laptop.jpg": "/kvitkas/ncri-app.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "index.html": "/kvitkas/ncri-app.git/index.html",
-    "main.26bd5955.css.map": "/kvitkas/ncri-app.git/static/css/main.26bd5955.css.map",
-    "main.5a99910d.js.map": "/kvitkas/ncri-app.git/static/js/main.5a99910d.js.map"
+    "main.css": "/kvitkas/ncri-application.git/static/css/main.26bd5955.css",
+    "main.js": "/kvitkas/ncri-application.git/static/js/main.d3aa7db5.js",
+    "static/media/laptop.jpg": "/kvitkas/ncri-application.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/kvitkas/ncri-application.git/index.html",
+    "main.26bd5955.css.map": "/kvitkas/ncri-application.git/static/css/main.26bd5955.css.map",
+    "main.d3aa7db5.js.map": "/kvitkas/ncri-application.git/static/js/main.d3aa7db5.js.map"
   },
   "entrypoints": [
     "static/css/main.26bd5955.css",
-    "static/js/main.5a99910d.js"
+    "static/js/main.d3aa7db5.js"
   ]
 }
